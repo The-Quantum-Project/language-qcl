@@ -1,10 +1,10 @@
 'fileTypes': [
   'qcl'
 ]
-'name': 'Quantum Computation Language'
+'name': 'QCL'
 'patterns': [
   {
-    'include': '#comment'
+    'include': '|[comment'
   }
 ]
 'repository':
