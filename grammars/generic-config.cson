@@ -1,10 +1,11 @@
 'fileTypes': [
-  'qcl'
+  'qcl',
+  'quicel'
 ]
 'name': 'QCL'
 'patterns': [
   {
-    'include': '|[comment'
+    'include': '#comment'
   }
 ]
 'repository':
