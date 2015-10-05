@@ -4,7 +4,7 @@
     "name": "Thomas Steinholz",
     "email": "tsteinholz@yahoo.com"
   },
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Provides basic syntax highlighting for QCL code",
   "keywords": [
     "qcl",
